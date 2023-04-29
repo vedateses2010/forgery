@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
