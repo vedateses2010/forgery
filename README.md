@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Fix device counting method to account for double-digit device IDs (#8502)
