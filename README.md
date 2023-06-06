@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
