@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update neural-magic.md (#7347)
