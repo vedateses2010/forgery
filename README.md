@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add YOLOv8 LibTorch C++ inference example (#7090)
