@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Rename model_id to model.id (#8447)
