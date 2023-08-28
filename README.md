@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+fix yolo classify model loading error (#9196)
