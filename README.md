@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
