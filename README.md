@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix Yolo 8.0.206 scale bug (#7821)
