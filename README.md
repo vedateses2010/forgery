@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add new YOLOv8 OBB model metrics (#7379)
