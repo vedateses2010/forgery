@@ -1,1 +1,1 @@
-update requirements.txt
+Fix TFLite INT8 for OBB (#7989)
