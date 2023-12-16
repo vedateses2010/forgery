@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
