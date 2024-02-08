@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+ultralytics 8.0.229 add model.embed() method (#7098)
