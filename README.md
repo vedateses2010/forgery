@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
