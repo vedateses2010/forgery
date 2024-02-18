@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix device counting method to account for double-digit device IDs (#8502)
