@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
