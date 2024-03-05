@@ -1,1 +1,1 @@
-fix print val map
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
