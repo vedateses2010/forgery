@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
