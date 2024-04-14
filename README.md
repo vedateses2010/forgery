@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix device counting method to account for double-digit device IDs (#8502)
