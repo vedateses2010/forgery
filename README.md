@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
