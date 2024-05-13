@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
