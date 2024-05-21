@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Update CITATION.cff with cffinit corrections (#8658)
