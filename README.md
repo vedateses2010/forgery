@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Replace onnx2tf usage from CLI to Python (#8429)
