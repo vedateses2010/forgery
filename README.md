@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
