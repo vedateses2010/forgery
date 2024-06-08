@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Auto-format by https://ultralytics.com/actions
