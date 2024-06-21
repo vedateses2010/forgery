@@ -1,1 +1,1 @@
-added badges (#45)
+Fix PNNX ubuntu -> linux bug (#7050)
