@@ -1,1 +1,1 @@
-add yolov10
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
