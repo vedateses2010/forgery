@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
