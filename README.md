@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
