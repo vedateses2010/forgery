@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Compress docs images (#8124)
