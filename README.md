@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add docstrings to new HUB functions (#7576)
