@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
