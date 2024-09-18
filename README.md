@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
