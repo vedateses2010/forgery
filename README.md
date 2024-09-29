@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update Docs Home and Neural Magic pages (#7243)
