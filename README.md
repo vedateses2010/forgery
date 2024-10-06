@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
