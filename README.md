@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
