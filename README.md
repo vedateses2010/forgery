@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
