@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
